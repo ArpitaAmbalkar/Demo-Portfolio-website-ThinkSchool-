@@ -345,6 +345,10 @@ nav h2{
     transition: transform 1s ease;
 
 }
+.pro:hover h2{
+    background-color:black;
+    color:white;
+}
 /*INFO SECTION*/
 
 .education{
